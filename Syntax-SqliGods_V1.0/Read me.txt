@@ -1,0 +1,54 @@
+--MakMan
+--SQLiGODS
+--SQli Gods Syntax V1.0
+
+Hey Friends .. MakMan here ..
+Finally.. Im releasing my SQLiGOD syntaX V1.0
+
+--Intro : 
+This syntax is actually just a concat() function
+which can be inserted in any UNION SELECT based injection regardless of injection type .. 
+
+Since my last video about this generic Syntax ..
+I have Added some new features .. 3:)
+
+1) Most important .. Multi Database Support.
+2) No need of editing from one URL to another. 
+3) Automates the whole process to some extent.
+4) New and better layout.
+5) All you have to do is just .. CLick !! 3:)
+
+--How to Use:
+This syntax is very wasy to use ..
+Just follow the prompts .. and at second prompt enter your Full injection URL after Replacing your injection point with Keyword 'makman' without quotes .. 
+
+
+--Limitations:
+This syntax can work in normal WAF .. like if there is some WAF on UNION or SELECT. you can simply hex decode this syntax and replace all the UNION and SELECT keywords with your /*!00000SELECT*/ or /*!00000UNION*/ by passed keywords.
+
+
+--BUT 
+There can be a possibility .. it wont work in harcore WAFs.
+or very logical or tricky Injections .. You can add more features to it .. ;)
+
+hope you gys liked my work .. :D
+
+Finally .. Few last words .. 
+
+If you want to do any improvement in it ur self .. 
+
+You can do it .. no copy rights .. :P
+
+To download this syntax .. see the description of the Video ..
+
+-- Shouts to :
+
+-- Ajkaro | Black Hawk | madcodE | Rummy Khan | Ch3rn0byl
+
+-- Team Madleets ...
+
+-- MakMan
+https://www.facebook.com/themakmaniac
+
+-- SQLI GODS
+https://www.facebook.com/sqli.gods
